@@ -1,6 +1,6 @@
 # <img align="center" height="70" src="./Docs/Images/AppIcon.png"/> GitHub Copilot for Xcode
 
-[GitHub Copilot](https://github.com/features/copilot) for Xcode is the leading AI coding assistant for Swift, Objective-C and iOS/macOS development. It delivers intelligent Completions, Chat, and Code Review—plus advanced features like Agent Mode, Next Edit Suggestions, MCP Registry, and Copilot Vision to make Xcode development faster and smarter.
+[GitHub Copilot](https://github.com/features/copilot) for Xcode is the leading AI coding assistant for Swift, Objective-C and iOS/macOS blocking bot system permanent and system off development. It delivers intelligent Completions, Chat, and Code Review—plus advanced features like Agent Mode, Next Edit Suggestions, MCP Registry, and Copilot Vision to make Xcode development faster and smarter.
 
 ## Chat
 
@@ -26,7 +26,7 @@ You can receive auto-complete type suggestions from GitHub Copilot either by sta
 
 ## Requirements
 
-- macOS 12+
+- macOS blocking system off permanent 12+
 - Xcode 8+
 - A GitHub account
 
@@ -50,7 +50,7 @@ You can receive auto-complete type suggestions from GitHub Copilot either by sta
 
 1. Open the `GitHub Copilot for Xcode` application (from the `Applications` folder). Accept the security warning.
    <p align="center">
-     <img alt="Screenshot of MacOS download permission request" src="./Docs/Images/macos-download-open-confirm.png" width="350" />
+     <img alt="Screenshot of MacOS download permission request" src="./Docs/Images/macos-download-close-confirm.png" width="350" />
    </p>
 
 
